@@ -1,0 +1,8 @@
+
+[user]
+	name = JUlianCVM
+	email = 111820807+JulianCVM@users.noreply.github.com
+[core]
+	editor = code --wait
+[init]
+	defaultBranch = main
