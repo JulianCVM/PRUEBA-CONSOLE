@@ -33,4 +33,4 @@ Explica brevemente para qué sirve tu proyecto y quiénes podrían beneficiarse 
 
 ## ⚙️ *Instalación*  
 1. Clona este repositorio:
- git clone https://github.com/usuario/repositorio.git
+ git clone https://github.com/JulianCVM/PRUEBA-CONSOLE.git
